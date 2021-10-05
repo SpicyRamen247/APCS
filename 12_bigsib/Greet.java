@@ -35,10 +35,3 @@ public class richard {
         System.out.println("Sup mom");
     } //end of greeting method
 }
-/*
-$ javac Greet.java
-Word up freshman
-Salutations Dr. Spaceman
-Hey ya Kong Fooey
-Sup mom
-*/
