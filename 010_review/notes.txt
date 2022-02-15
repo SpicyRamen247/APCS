@@ -1,0 +1,61 @@
+// Team Alpha Star - Andrey Sokolov + Geese & Kevin Xiao + Mr. Swag (with help of Joshua Gao)
+// APCS pd8
+// HW 63 - Read/Review/Expand
+// 2022-02-10
+// time spent: 1 hr
+
+Activity 1
+
+1
+a. sentimentVal(word)
+b. It requires a string that matches a data point from the csv file called cleanSentiment.csv.
+If it doesn't match a data point, it returns 0.
+c. Yes it returns a double.
+
+2
+sentimentVal("awful"); = -3.21
+sentimentVal("painful"); = -3.69
+sentimentVal("terrific"); = 2.39
+
+3
+a. It would compile as sentimentVal returns the same data type as num (double)
+b. Does not compile because sentimentVal takes an argument of string.
+c. Does not compile because you are inputting multiple arguments and the function only
+accepts one argument.
+
+Activity 2
+
+1 
+Method was written, utilizing the existing textToString
+
+2 
+totalSentiment("SimpleReview.txt"); = 0.13
+
+3 
+starRating("SimpleReview.txt"); = 1
+
+4
+totalSentiment(string fileName) operates using a Scanner which scans the string given to it by the textToString(string) method. 
+It does so utilizing a while loop to iterate through each word in the given string and add each of their sentimentVal()s together
+in order to come up with the final sentiment value.
+
+5
+a. The ratings do make sense, as everything below a 0 sentimentVal receives 0 stars and everything above a 40 receives 5 stars. If the sentimentalVal score is high enough to reach a 40,
+the review is bound to be at the very least humorous or just positive.
+
+b. totalSentiment() could be adjusted so as to count the sentimentVals of special characters such as emojis or punctuation.
+It could also be made better by making it possible for users to write their own star scoring at the end of the review, which would the be correctly parsed and passed to starRating().
+
+6
+a. due to the fact that the first if statement is going to be true if the totalSentiment value is below 15, the program will never be able to reach the else if statements which would
+check if the totalSentiment values are below 15 AND below the other values. For example, a totalSentiment value of -20 would pass the if(totalSentiment < 15) conditional and would cause
+method to return a 4, even though theoretically it is supposed to return a 0.
+
+b. it would be rational to simply flip the conditionals so that they check if the totalSentiment values are GREATER than the constants which those values are being compared to.
+So chang if(totalSentiment < 15) to if(totalSentiment > 15) and so on.
+
+
+---------------------------------------------------------------------------------------
+DISCO:
+
+QCC:
