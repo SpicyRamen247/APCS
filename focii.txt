@@ -1,0 +1,24 @@
+/*
+Joshua Gao | Faiza Huda + John Gupta-She
+APCS
+HW66 -- Where's Your Head At
+2022-28-02
+time spent: 1.0hrs 
+*/
+
+/*
+DISCO:
+-Writing our thoughts and opinons about a piece after reading about it is a liberating experience, especially when it's about a topic that you can relate to.
+QCC:
+-How to abandon my iPhone in favor of no-phone or flip-phone 
+-FOMO on Google Maps 
+*/
+
+I've always known about the benefits of Internet abstinence and have tried on multiple occasions to replicate the experiment itself. Unfortunately, all of those attempts ended unsuccessfully but there was one time that did work.
+I installed a web-blocker called ColdTurkey which disabled the specific usage of any applications on the computer until a specified time. One day, I decided to make put a timer of 2 weeks w/o any social media including Facebook, YouTube, or any other news feed.
+The first couple of days were rough. I found myself instinctly typing into the search engine of the URL of my favorite websites (which would pop up automatically), but was then quickly shut down with a ColdTurkey wall page. I also locked myself out of my other devices (including my iPhone), so for the next 2 weeks, I was out of the Internet world.
+However, those 2 weeks proved to be the best 2 weeks of my life as my mind began to, for the first time, witness life out of the screen. Anxiety and fear dissipated from my life as I began to see life for what it truly is. It was as if, prior to this, I walking through a fog that was suddenly cleared away by the abstinence of the Internet.
+Besides the anecdotal experience, I’ve read Cal Newport’s book titled “Deep Work” which stressed the importance of creating a Internet-free ritual for a fulfilling life. There was also another TedEd talk which discussed that our short-attention span was not a consequence of distraction, but rather a cognitive state of overstimulation. 
+I think the biggest problem for me is the cognitive dissonance in which I know, even from personal experience, these tremendous benefits but choose not to do so. It is the craving of just checking the latest Facebook post or watching a seemingly innocuous YT video that creates a vicious positive-reinforcement cycle that I find so hard to break out of. Is it a lack of willpower/commitment to improving my life? Or perhaps, I’m just making too many excuses to further procrastinate? Or it’s just the neurochemistry in which this bad habit is a well-reinforced neural circuitry? Probably all of the above. 
+Surprisingly, as I am writing this, I feel more relieved and relaxed. I suspect this is because I am bringing my subconscious worries into the conscious mind which helps clear up those feelings. They say journaling is a great habit to get into, but I find it hard to choose a topic to write about. In this situation in which I read 2 articles and am instructed to write a response to it, it feels so much easier since I simply have to follow what someone else tells me to do. This is all part of going up though, because we have become more independent but it’s much harder than I initially thought. 
+
