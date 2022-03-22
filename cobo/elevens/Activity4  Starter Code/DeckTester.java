@@ -90,7 +90,7 @@ public class DeckTester {
 				suit = "Spades";
 			}
 
-			if (i < 26 {
+			if (i < 26) {
 				suit = "Hearts";
 			}
 
@@ -108,7 +108,7 @@ public class DeckTester {
 			pv[i] = ((i+1) % 13);
 
 			//Create new deck
-			Deck edith = new deck (r, s, pv);
+			Deck edith = new Deck (r, s, pv);
 			System.out.println(edith);
 	}
 }
