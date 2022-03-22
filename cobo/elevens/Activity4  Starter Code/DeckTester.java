@@ -61,7 +61,54 @@ public class DeckTester {
 		String[] s = new String[52]; // first 13 = spades, hearts, diamonds, clubs
 		int[] pv = new int[52]; //nums 1(ace) - 13(king) 
 
+		for (int i=0; i<=51; i++) {
+			String rank = "";
+			String suit = "";
+			//ace = 1
+			if ( (i+1) % 13 ==1) {
+				rank = "Ace"; 
+			}
+			//jack(11), queen(12), king(13)
+			else if ( (i+1) % 13 ==11) {
+				rank = "Jack"; 
+			}
 
+			else if ( (i+1) % 13 ==12) {
+				rank = "Queen"; 
+			}
 
+			else if ( (i+1) % 13 ==0) {
+				rank = "King"; 
+			}
+			//all the normal cards
+			else {
+				rank = Integer.toString((i+1) % 13);
+			}
+
+			//String []s
+			if (i < 13) {
+				suit = "Spades";
+			}
+
+			if (i < 26 {
+				suit = "Hearts";
+			}
+
+			if (i < 39) {
+				suit = "Diamonds";
+			}
+
+			else  {
+				suit = "Clubs";
+			}
+
+			//update the deck
+			r[i] = rank;
+			s[i] = suit;
+			pv[i] = ((i+1) % 13);
+
+			//Create new deck
+			Deck edith = new deck (r, s, pv);
+			System.out.println(edith);
 	}
 }
