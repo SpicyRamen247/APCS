@@ -1,0 +1,15 @@
+// Team McDonalds$24MScam : Prattay Dey, Joshua Gao, Faiza Huda
+// Ducks : Winnie, Batman, Truthful Tom, Huebert
+// APCS pd08
+// HW82 -- Roll Your Own Iterator
+// 2022-03-26
+// time spent: .5 hrs
+
+DISCOS
+ - I am a bad typer
+ - Read the interface to get what the method that we had to write done
+
+QCC
+ - What is the point of _okToRemove? Is it for when the Iterator goes to the last element?
+ - What's the point of Iterator? Can't Outer Class just access the Inner Class?
+ - Why is MyIterator private but the OuterClass public?
